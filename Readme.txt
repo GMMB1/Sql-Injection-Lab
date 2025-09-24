@@ -48,22 +48,20 @@ sql-injection-lab/
 
 1. Clone this repository:
 
-```
+
 git clone <your-repo-url>
 cd sql-injection-lab/sql-injection-lab
-```
 
 
 2. Build and start Docker containers:
 
-```
 sudo docker-compose up --build -d
-```
+
 3. Open your browser and navigate to:
 
-```
+
 http://127.0.0.1:8080
-```
+
 
 ## Database Initialization Issue (`users.sql`)
 
