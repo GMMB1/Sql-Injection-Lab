@@ -106,6 +106,12 @@ USE injection_lab;
 SHOW TABLES;
 SELECT * FROM users;
 
+👨‍💻 Author: GMM
+
+🔗 Maintainer: GMM (https://github.com/GMMB1)
+
+☕️ Support: https://ko-fi.com/ghostman77506
+
 
 
 
